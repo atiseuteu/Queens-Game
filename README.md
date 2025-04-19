@@ -22,6 +22,13 @@ Developed in **Python with Tkinter**, the game features both **AI Mode** and **H
 - 📈 Performance charts (planned) for analyzing backtracking efficiency
 - 🎯 Difficulty levels to train or challenge users
 
+![Screenshot (226)](https://github.com/user-attachments/assets/6fed7555-7865-49c8-83a7-504f3778bed0)
+![Screenshot (227)](https://github.com/user-attachments/assets/9c087884-09b5-45af-98dd-853f52698d2c)
+![Screenshot (228)](https://github.com/user-attachments/assets/562cdb87-cd99-4cd6-bb22-267180dce9c8)
+![Screenshot (229)](https://github.com/user-attachments/assets/5f14464d-8f47-4d57-b72a-28af746909a9)
+![Screenshot (230)](https://github.com/user-attachments/assets/d41d1332-a8b6-4c20-99ac-626933c7ba72)
+![Screenshot (231)](https://github.com/user-attachments/assets/1ac9b836-5caf-429f-9b00-35323310e1b0)
+
 ### 🔍 AI Methodology
 
 - **Backtracking** enhanced with:
